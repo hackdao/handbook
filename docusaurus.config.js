@@ -2,16 +2,16 @@ module.exports = {
     // 主页配置
     title: "BitFuture HandBook",
     tagline: "在区块链上建立的去中心化流民主国家，如果你怀揣梦想，欢迎加入我们一起来改变世界。",
-    url: "https://handbook.raidguild.org",
+    url: "https://bitfuture.pro/handbook/",
     baseUrl: "/",
     favicon: "img/rg-icon.png",
-    organizationName: "raid-guild", // Usually your GitHub org/user name.
+    organizationName: "BitFuture", // Usually your GitHub org/user name.
     projectName: "Handbook", // Usually your repo name.
     themeConfig: {
         navbar: {
             title: "BitFuture",
             logo: {
-                alt: "RaidGuild Logo",
+                alt: "BitFuture Logo",
                 src: "img/rg-icon.png",
             },
             links: [
