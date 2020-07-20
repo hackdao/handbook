@@ -6,6 +6,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 
+// 特色
 const features = [
     {
         title: "Guild Structure",
@@ -79,7 +80,7 @@ function Home() {
                             )}
                             to={useBaseUrl("docs/overview")}
                         >
-                            Get Started
+                            开始
                         </Link>
                     </div>
                 </div>

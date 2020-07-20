@@ -1,6 +1,7 @@
 module.exports = {
-    title: "RaidGuild Handbook",
-    tagline: "Your guide to Raiding with the RaidGuild",
+    // 主页配置
+    title: "BitFuture DAO",
+    tagline: "在区块链上建立的去中心化流民主国家，如果你怀揣梦想，欢迎加入我们一起来改变世界。",
     url: "https://handbook.raidguild.org",
     baseUrl: "/",
     favicon: "img/rg-icon.png",
@@ -8,7 +9,7 @@ module.exports = {
     projectName: "Handbook", // Usually your repo name.
     themeConfig: {
         navbar: {
-            title: "RaidGuild",
+            title: "BitFuture",
             logo: {
                 alt: "RaidGuild Logo",
                 src: "img/rg-icon.png",
@@ -53,7 +54,7 @@ module.exports = {
             //     ]
             //   }
             // ],
-            copyright: `Copyright © ${new Date().getFullYear()} RaidGuild, DAO`,
+            copyright: `Copyright © ${new Date().getFullYear()} BitFuture, DAO`,
         },
     },
     presets: [
