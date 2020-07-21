@@ -2,11 +2,11 @@ module.exports = {
     // 主页配置
     title: "BitFuture HandBook",
     tagline: "在区块链上建立的去中心化流民主国家，如果你怀揣梦想，欢迎加入我们一起来改变世界。",
-    url: "https://bitfuture.pro/handbook/",
-    baseUrl: "/",
+    url: "https://bitfuture.pro",
+    baseUrl: "/handbook/",
     favicon: "img/rg-icon.png",
-    organizationName: "BitFuture", // Usually your GitHub org/user name.
-    projectName: "Handbook", // Usually your repo name.
+    organizationName: "bitfuture", // Usually your GitHub org/user name.
+    projectName: "handbook", // Usually your repo name.
     themeConfig: {
         navbar: {
             title: "BitFuture",
